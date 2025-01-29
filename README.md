@@ -32,7 +32,7 @@ npm install
 
 ## CONFIGURATION
 
-### Getting JWT Token
+### GETTING JWT TOKEN
 
 1. Install Teneo browser extension
 2. Register using code: `KFqtX`
@@ -87,6 +87,6 @@ The bot will:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
 
-## Disclaimer
+## DISCLAIMER
 
 This tool is for educational purposes only. Use at your own risk and responsibility.
